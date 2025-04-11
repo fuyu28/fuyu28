@@ -4,7 +4,7 @@ I'm fuyu. I'm studying information engineering at university.
 
 I'm a beginner engineer
 
-- 🌱 I’m currently learning : C++ / flutter
+- 🌱 I’m currently learning : C++ / Flutter / React
 - ⚡ Fun fact : Competitive programming / application development
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuyu28&theme=default)
