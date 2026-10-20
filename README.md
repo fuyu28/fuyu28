@@ -12,22 +12,6 @@ I mainly build applications with TypeScript, React, Next.js, and Hono, while exp
 
 ---
 
-#### 🔭 Featured Projects
-
-- **[Shiogama-Timetable](https://github.com/fuyu28/shiogama-timetable)**
-
-  Built with Next.js & TypeScript to let students quickly check their nearest station’s train schedule.
-
-- **[Cloud Launch](https://github.com/fuyu28/CloudLaunch)**
-  
-  An Electron + Vite desktop app for organizing and launching PC game save data.
-  
-- **[AtCoder Beginner Contest Solutions](https://github.com/fuyu28/atcoder_cpp)**
-  
-  Ongoing repository of my C++ submissions and problem‑solving templates.
-
----
-
 #### 🎓 Certifications
 
 - Applied Information Technology Engineer Examination (応用情報技術者試験)
